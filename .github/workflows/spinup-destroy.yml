@@ -12,7 +12,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  AZURE_WEBAPP_NAME: dv4harr10-ttt-app
+  AZURE_WEBAPP_NAME: <dv4harr10>-ttt-app
 
 jobs:
   setup-up-azure-resources:
